@@ -19,7 +19,6 @@ Note that the duration column is measured in seconds.
 (Tip: If you're not sure how to select rows where a column equals a value, remember that 
 you can check the documentation below.)
 
-
 CREATE TABLE songs (
     id INTEGER PRIMARY KEY,
     title TEXT,
